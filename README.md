@@ -1,3 +1,3 @@
 # test
-To test some GitHub use cases
-edited at 14:: at local repo
+
+the repo to test GIt with gitHub
